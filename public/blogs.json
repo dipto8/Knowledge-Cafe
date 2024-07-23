@@ -1,0 +1,53 @@
+[
+    {
+      "Id": 101,
+      "Cover": "https://i.ibb.co/2YCDD82/flat-lay-desktop-with-agenda-succulent-plant.jpg",
+      "Title": "The Mysterious Island",
+      "Author": "Jane Doe",
+      "Author_img": "jane_doe.jpg",
+      "Posted_date": "2024-06-15",
+      "Reading_time": 8,
+      "Hashtags": ["#Mystery", "#Adventure", "#Island"]
+    },
+    {
+      "Id": 102,
+      "Cover": "cover2.jpg",
+      "Title": "Cooking with Love",
+      "Author": "John Smith",
+      "Author_img": "john_smith.jpg",
+      "Posted_date": "2024-07-01",
+      "Reading_time": 12,
+      "Hashtags": ["#Cooking", "#Recipe", "#Love"]
+    },
+    {
+      "Id": 103,
+      "Cover": "cover3.jpg",
+      "Title": "Tech Innovations of 2024",
+      "Author": "Alice Johnson",
+      "Author_img": "alice_johnson.jpg",
+      "Posted_date": "2024-05-22",
+      "Reading_time": 15,
+      "Hashtags": ["#Technology", "#Innovation", "#2024"]
+    },
+    {
+      "Id": 104,
+      "Cover": "cover4.jpg",
+      "Title": "The Art of Mindfulness",
+      "Author": "Michael Brown",
+      "Author_img": "michael_brown.jpg",
+      "Posted_date": "2024-07-18",
+      "Reading_time": 10,
+      "Hashtags": ["#Mindfulness", "#Wellbeing", "#Art"]
+    },
+    {
+      "Id": 105,
+      "Cover": "cover5.jpg",
+      "Title": "Exploring the Cosmos",
+      "Author": "Emily Clark",
+      "Author_img": "emily_clark.jpg",
+      "Posted_date": "2024-06-30",
+      "Reading_time": 18,
+      "Hashtags": ["#Space", "#Astronomy", "#Cosmos"]
+    }
+  ]
+  
