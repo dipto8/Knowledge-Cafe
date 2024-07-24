@@ -1,50 +1,50 @@
 [
     {
       "Id": 101,
-      "Cover": "https://i.ibb.co/2YCDD82/flat-lay-desktop-with-agenda-succulent-plant.jpg",
+      "Cover": "https://i.ibb.co/s5k6zBJ/time-kathryn-bigelow-e219e265a7234729bb494519f05b57c3.jpg",
       "Title": "The Mysterious Island",
       "Author": "Jane Doe",
-      "Author_img": "jane_doe.jpg",
+      "Author_img": "https://i.ibb.co/G26wVQL/pd.png",
       "Posted_date": "2024-06-15",
       "Reading_time": 8,
       "Hashtags": ["#Mystery", "#Adventure", "#Island"]
     },
     {
       "Id": 102,
-      "Cover": "cover2.jpg",
-      "Title": "Cooking with Love",
+      "Cover": "https://i.ibb.co/rZ0ZfW6/coverdsfs.jpg",
+      "Title": "The Mysterious Island",
       "Author": "John Smith",
-      "Author_img": "john_smith.jpg",
+      "Author_img": "https://i.ibb.co/G26wVQL/pd.png",
       "Posted_date": "2024-07-01",
       "Reading_time": 12,
       "Hashtags": ["#Cooking", "#Recipe", "#Love"]
     },
     {
       "Id": 103,
-      "Cover": "cover3.jpg",
+      "Cover": "https://i.ibb.co/Fm7533c/1101490221-400.jpg",
       "Title": "Tech Innovations of 2024",
       "Author": "Alice Johnson",
-      "Author_img": "alice_johnson.jpg",
+      "Author_img": "https://i.ibb.co/dBdCLjr/p2.png",
       "Posted_date": "2024-05-22",
       "Reading_time": 15,
       "Hashtags": ["#Technology", "#Innovation", "#2024"]
     },
     {
       "Id": 104,
-      "Cover": "cover4.jpg",
+      "Cover": "https://i.ibb.co/gtFfkRL/TIM220328-JR-Cover-FINAL-600x800.jpg",
       "Title": "The Art of Mindfulness",
       "Author": "Michael Brown",
-      "Author_img": "michael_brown.jpg",
+      "Author_img": "https://i.ibb.co/Ry44w42/p4.png",
       "Posted_date": "2024-07-18",
       "Reading_time": 10,
       "Hashtags": ["#Mindfulness", "#Wellbeing", "#Art"]
     },
     {
       "Id": 105,
-      "Cover": "cover5.jpg",
+      "Cover": "https://i.ibb.co/kx4h84L/athlete-of-the-year-lionel-messi-neil-jamieson-for-time.jpg",
       "Title": "Exploring the Cosmos",
       "Author": "Emily Clark",
-      "Author_img": "emily_clark.jpg",
+      "Author_img": "https://i.ibb.co/SVbR9qk/p3.jpg",
       "Posted_date": "2024-06-30",
       "Reading_time": 18,
       "Hashtags": ["#Space", "#Astronomy", "#Cosmos"]
