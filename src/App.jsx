@@ -5,11 +5,22 @@ import Blogs from './components/Blogs/Blogs'
 import Bookmarks from './components/Bookmarks/Bookmarks'
 import PropTypes from 'prop-types'
 
+
 function App() {
   const [bookmarks,setBookmarks] = useState([])
+  const [readingTime,setReadingTime] = useState(0)
   const handleBookmarks =blog =>{
     const newBookmarks = [...bookmarks, blog]
     setBookmarks(newBookmarks)
+  
+  }
+  const handleReadingTime = (id,time) =>{
+     const newreadingTime = readingTime + time
+     setReadingTime(newreadingTime)
+      // remove the read blog from Bookmark
+      // console.log('remove Bookmark',id)
+      const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id)
+      setBookmarks(remainingBookmarks)
   }
 
 
@@ -18,8 +29,8 @@ function App() {
 
       <Header></Header>
       <div className=" md:flex max-w-7xl mx-auto">
-        <Blogs handleBookmarks={handleBookmarks} ></Blogs>
-        <Bookmarks bookmarks={bookmarks}></Bookmarks>
+        <Blogs handleReadingTime={handleReadingTime} handleBookmarks={handleBookmarks} ></Blogs>
+        <Bookmarks bookmarks={bookmarks} readingTime={readingTime} ></Bookmarks>
       </div>
 
   

@@ -1,8 +1,8 @@
 [
     {
-      "Id": 101,
+      "id": 1,
       "Cover": "https://i.ibb.co/s5k6zBJ/time-kathryn-bigelow-e219e265a7234729bb494519f05b57c3.jpg",
-      "Title": "The Mysterious Island",
+      "Title": "Time Darkness",
       "Author": "Jane Doe",
       "Author_img": "https://i.ibb.co/G26wVQL/pd.png",
       "Posted_date": "2024-06-15",
@@ -10,7 +10,7 @@
       "Hashtags": ["#Mystery", "#Adventure", "#Island"]
     },
     {
-      "Id": 102,
+      "id": 2,
       "Cover": "https://i.ibb.co/rZ0ZfW6/coverdsfs.jpg",
       "Title": "The Mysterious Island",
       "Author": "John Smith",
@@ -20,7 +20,7 @@
       "Hashtags": ["#Cooking", "#Recipe", "#Love"]
     },
     {
-      "Id": 103,
+      "id": 3,
       "Cover": "https://i.ibb.co/Fm7533c/1101490221-400.jpg",
       "Title": "Tech Innovations of 2024",
       "Author": "Alice Johnson",
@@ -30,7 +30,7 @@
       "Hashtags": ["#Technology", "#Innovation", "#2024"]
     },
     {
-      "Id": 104,
+      "id": 4,
       "Cover": "https://i.ibb.co/gtFfkRL/TIM220328-JR-Cover-FINAL-600x800.jpg",
       "Title": "The Art of Mindfulness",
       "Author": "Michael Brown",
@@ -40,7 +40,7 @@
       "Hashtags": ["#Mindfulness", "#Wellbeing", "#Art"]
     },
     {
-      "Id": 105,
+      "id": 5,
       "Cover": "https://i.ibb.co/kx4h84L/athlete-of-the-year-lionel-messi-neil-jamieson-for-time.jpg",
       "Title": "Exploring the Cosmos",
       "Author": "Emily Clark",
